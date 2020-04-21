@@ -2,5 +2,6 @@ com\cusx\controller\ContentController.class
 com\cusx\controller\ItemCatController.class
 com\cusx\controller\ItemController.class
 com\cusx\controller\PageController.class
+com\cusx\controller\SearchItemController.class
 com\cusx\controller\ContentCatController.class
 com\cusx\controller\PictureController.class
